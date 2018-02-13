@@ -25,6 +25,8 @@ react-native run-android
 - [x] Writes timestamp to Redux store
 - [x] Calls bluetoothScan from [react-native-ble-plx](https://github.com/Polidea/react-native-ble-plx) for devices
 
+![Screenshot](screenshot.png)
+
 ## Steps to Build From Scratch
 
 ```
